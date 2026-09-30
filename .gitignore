@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/
+.sites-runtime/
+.wrangler/
+.DS_Store
+*.tar.gz
+.evidence/
+*.sqlite*
+.omo/
+PLAN.md
+public/source.zip
